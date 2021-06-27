@@ -1,0 +1,136 @@
+#box1{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 100px;
+    border-radius: 10px;
+}
+#box2{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 100px;
+    border-radius: 10px;
+}
+
+#box3{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 100px;
+    border-radius: 10px;
+}
+#box4{
+    margin-top: 10px;
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 100px;
+    border-radius: 10px;
+}
+#box5{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 100px;
+    border-radius: 10px;
+}
+
+#box6{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 100px;
+    border-radius: 10px;
+}
+#box7{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 100px;
+    border-radius: 10px;
+}
+#box8{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 100px;
+    border-radius: 10px;
+}
+
+#box9{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 100px;
+    border-radius: 10px;
+    
+}
+
+.hr1{
+    border: 10px solid ;
+    transform: rotate(90deg);
+    position: relative;
+    left: 100px;
+}
+.hr3{
+    
+    border: 10px solid ;
+    transform: rotate(90deg);
+    position: relative;
+    right: 200px;
+}
+.hr2{
+    border: 10px solid ;
+}
+.hr4{
+    border: 10px solid ;
+}
+h1{
+ font-size: 100px;   
+}
